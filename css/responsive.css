@@ -17,5 +17,10 @@
 
   nav ul :nth-child(1) a {
   margin: 0;
-}
+  }
+
+  #about-body h3 {
+    text-align: left;
+  }
+
 }

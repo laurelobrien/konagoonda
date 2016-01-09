@@ -132,3 +132,13 @@ nav ul :nth-child(1) a {
   background-color: #FFDD33;
   color: #000000;
 }
+
+#contact-body nav ul :nth-child(2) a {
+  background-color: #FFDD33;
+  color: #000000;
+}
+
+#about-body nav ul :nth-child(3) a {
+  background-color: #FFDD33;
+  color: #000000;
+}
